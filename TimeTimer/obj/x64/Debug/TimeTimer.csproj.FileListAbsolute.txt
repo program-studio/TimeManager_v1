@@ -1,0 +1,9 @@
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\x64\Debug\TimeTimer.exe.config
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\x64\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\x64\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.Form1.resources
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.Properties.Resources.resources
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.csproj.GenerateResource.Cache
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\x64\Debug\TimeTimer.csprojResolveAssemblyReference.cache

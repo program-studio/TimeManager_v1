@@ -1,0 +1,148 @@
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\TimeTimer.exe.config
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.csprojResolveAssemblyReference.cache
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.Properties.Resources.resources
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.csproj.GenerateResource.Cache
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\CircularProgressBar.dll
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\MetroFramework.Design.dll
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\MetroFramework.dll
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\MetroFramework.Fonts.dll
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\WinFormAnimation.dll
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\CircularProgressBar.xml
+D:\PROJECT\_program\TimeTimer\TimeTimer\bin\Debug\WinFormAnimation.xml
+D:\PROJECT\_program\TimeTimer\TimeTimer\obj\Debug\TimeTimer.TimeManager.resources
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\TimeTimer.exe.config
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\TimeTimer.exe
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\TimeTimer.pdb
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\CircularProgressBar.dll
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\MetroFramework.Design.dll
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\MetroFramework.dll
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\MetroFramework.Fonts.dll
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\WinFormAnimation.dll
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\CircularProgressBar.xml
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\bin\Debug\WinFormAnimation.xml
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.csprojResolveAssemblyReference.cache
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.TimeManager.resources
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.Properties.Resources.resources
+D:\PROJECT\_program\TimeTimer - Копія\TimeTimer\obj\Debug\TimeTimer.csproj.GenerateResource.Cache
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\Database1.mdf
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\Database1_log.ldf
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\TimeLDB.mdf
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\TimeLDB_log.ldf
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\CircularProgressBar.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.Design.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.Fonts.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\System.Data.SqlServerCe.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\WinFormAnimation.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\CircularProgressBar.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\WinFormAnimation.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csprojResolveAssemblyReference.cache
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.TimeManager.resources
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csproj.GenerateResource.Cache
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.exe.config
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.exe
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.pdb
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.Properties.Resources.resources
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.exe
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.pdb
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.otkloadr.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.XDocsDesigner.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csproj.ResolveComReference.cache
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.LCC11.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.VSTOEE100.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\AdvancedDataGridView.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\AdvancedDataGridView.xml
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.WSHControllerLibrary.dll
+D:\PROJECT\_program\TimeManager\TimeTimer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\Database1.mdf
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\Database1_log.ldf
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\TimeLDB.mdf
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\TimeLDB_log.ldf
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.exe.config
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.exe
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\TimeManager.pdb
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\AdvancedDataGridView.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\CircularProgressBar.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.Design.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\MetroFramework.Fonts.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\System.Data.SqlServerCe.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\WinFormAnimation.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\AdvancedDataGridView.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\CircularProgressBar.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\WinFormAnimation.xml
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\ru\AdvancedDataGridView.resources.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\bin\Debug\fr\AdvancedDataGridView.resources.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\Interop.LCC11.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\Interop.VSTOEE100.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\Interop.WSHControllerLibrary.dll
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.TimeManager.resources
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.Properties.Resources.resources
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csproj.GenerateResource.cache
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.exe
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeManager.pdb
+\\Mac\Home\Documents\INFO\Work\_program\TimeManager\TimeTimer\obj\Debug\TimeTimer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\bin\Debug\TimeManager.exe.config
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\Interop.LCC11.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\Interop.VSTOEE100.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\Interop.WSHControllerLibrary.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\TimeTimer.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\TimeManager.exe
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1\TimeTimer\obj\Debug\TimeManager.pdb
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\TimeManager.exe.config
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\TimeManager.exe
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\TimeManager.pdb
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\AdvancedDataGridView.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\CircularProgressBar.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\MetroFramework.Design.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\MetroFramework.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\MetroFramework.Fonts.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\System.Data.SqlServerCe.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\WinFormAnimation.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\AdvancedDataGridView.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\CircularProgressBar.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\EntityFramework.SqlServerCompact.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\WinFormAnimation.xml
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\ru\AdvancedDataGridView.resources.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\bin\Debug\fr\AdvancedDataGridView.resources.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\Interop.LCC11.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\Interop.VSTOEE100.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\Interop.WSHControllerLibrary.dll
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.TimeManager.resources
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeManager.Properties.Resources.resources
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeTimer.csproj.CopyComplete
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeManager.exe
+\\Mac\Home\Documents\Programming\_Portfolio\TimeManager_v1.1\TimeTimer\obj\Debug\TimeManager.pdb
